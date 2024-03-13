@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/microservices": "^10.3.3",
+    "@nestjs/typeorm": "^10.0.2",
+    "kafkajs": "^2.2.4",
+    "pg": "^8.11.3",
+    "typeorm": "^0.3.20"
+  }
+}
